@@ -30,5 +30,3 @@ function send() {
 	document.getElementById("number2").value = "";
 }
 
-question_turn = "player1";
-answer_turn = "player2";
